@@ -1,0 +1,59 @@
+.divClass{
+    display: flex;
+    padding: 10px;
+    
+.muhil{
+    background-color: blue;
+    border-color: black;
+    width: 300px;
+    padding: 10px;
+    margin-left: 10px;
+    text-align: center;
+    
+    
+    
+
+}
+.rusmi{
+    background-color:aquamarine;
+    border-color: black;
+    width: 300px;
+    padding: 10px;
+    margin-left: 10px;
+    text-align: center;
+
+    
+
+}
+.mano{
+    background-color:blueviolet;
+    border-color: black;
+    width: 300px;
+    padding: 10px;
+    margin-left: 10px;
+    text-align: center;
+    
+
+} 
+.bar{
+    background-color:antiquewhite;
+    border-color: black;
+    width: 300px;
+    padding: 10px;
+    margin-left: 10px;
+    text-align: center;
+    
+
+}
+.kavi{
+    background-color:brown;
+    border-color: black;
+    width: 300px;
+    padding: 10px;
+    margin-left: 10px;
+    text-align: center;
+    
+
+
+}
+}
