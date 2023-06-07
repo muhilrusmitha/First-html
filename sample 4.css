@@ -1,0 +1,26 @@
+.div{
+    margin-right: 180px;
+    margin-left: 200px;
+    background-color: antiquewhite;
+    border-color:black;
+    border-style: double;
+    padding: 10px;
+    text-align: center;
+    height: 1250px;
+    
+     
+    .div2{
+        margin-left: 120px;
+        margin-right: 80px;
+        background-color: beige;
+        border:5px;
+        border-style: dotted;
+        width:800px;
+        height:840px;
+        padding-left: 19px;
+        padding-right: 5px;
+        border-color: black;
+        text-align: center;
+        padding-bottom: 2px;
+    }
+}
